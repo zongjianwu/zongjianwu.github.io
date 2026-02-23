@@ -20,11 +20,11 @@ My current research interests lie in **Vision Language Models, Visual Foundation
 
 ## 🧍‍♂️Information
 - Email: Zongjian_Ng [at] outlook.com 
-- Github: [https://github.com/Zoonjian/](https://github.com/Zoonjian/)
+- Github: [https://github.com/zongjianwu/](https://zongjianwu.github.io/ )
 <!--Tip: *Italics* indicate the first author.-->
 
 ## 🔥 Recent News
-- &nbsp;🎉🎉**December 2024**:&nbsp; I accomplish a brief suvery on Fully-supervised Open-vocabulary Semantic Segmentaion and propose a fourier based self-atttention on this thesis.[Project](https://github.com/Zoonjian/Fully-supervised-OVSS)
+- &nbsp;🎉🎉**December 2024**:&nbsp; I accomplish a brief suvery on Fully-supervised Open-vocabulary Semantic Segmentaion and propose a fourier based self-atttention on this thesis.[Project](https://github.com/zongjianwun/Fully-supervised-OVSS)
 - &nbsp;🎉🎉**September 2024**:&nbsp; Master's degree admission to Chongqing University
 - &nbsp;🎉🎉**June 2024**:Outstanding Graduates of Dalian City
 
