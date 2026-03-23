@@ -25,7 +25,7 @@ My current research interests lie in **Vision Language Models, Visual Foundation
 <!--Tip: *Italics* indicate the first author.-->
 
 ## 🔥 Recent News
-- &nbsp;🎉🎉**December 2024**:&nbsp; I accomplish a brief suvery on Fully-supervised Open-vocabulary Semantic Segmentaion and propose a fourier based self-atttention on this thesis.[Project](https://github.com/zongjianwun/Fully-supervised-OVSS)
+- &nbsp;🎉🎉**Mar 2026**:&nbsp; We release a new benchmark towards open-world referring expression comprehension.[Project](https://huggingface.co/Wuzj/datasets)
 - &nbsp;🎉🎉**September 2024**:&nbsp; Master's degree admission to Chongqing University
 - &nbsp;🎉🎉**June 2024**:Outstanding Graduates of Dalian City
 
