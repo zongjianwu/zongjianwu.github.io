@@ -8,35 +8,21 @@ redirect_from:
   - /about.html
 ---
 Hello~ I am Zongjian Wu,a M.S. Candidate at [Chongqing University](https://www.cqu.edu.cn)(CQU). I am very fortunate to be advised by [Prof. Lei Zhang](http://www.leizhang.tk), Chongqing University.<br />
-My current research interests lie in **Vision Language Models, Visual Foundation Models, Semantic Segmentation, Object Detection and Transfer Learning**.I'm always welcome any form of collaboration!You can find my email here: [Email](mailto:Zongjian_Ng@outlook.com)<br />
+My current research interests lie in **Multimodal Large Language Models, Multimodal reasoning and Post Training**. You can find my email here: [Email](mailto:Zongjian_Ng@outlook.com)<br />
 
 **My research interests include:**
-- **Open-world Multimodal understanding**
+  - Multimodal Large Language Models
   - Referring Expression Compreshion
-  - Post-training on Multimodal Large Language Models
-  - GUI Agent
-- **Vision Foundation Models**
-  - Prompt Learning
-  - Transfer Learning
-
+  - Vision Language Models
+  - 
 ## 🧍‍♂️Information
 - Email: Zongjian_Ng [at] outlook.com 
 - Github: [https://github.com/zongjianwu/](https://zongjianwu.github.io/ )
 <!--Tip: *Italics* indicate the first author.-->
 
 ## 🔥 Recent News
-- &nbsp;🎉🎉**Mar 2026**:&nbsp; We release a new benchmark towards open-world referring expression comprehension.[Project](https://huggingface.co/Wuzj/datasets)
-- &nbsp;🎉🎉**September 2024**:&nbsp; Master's degree admission to Chongqing University
-- &nbsp;🎉🎉**June 2024**:Outstanding Graduates of Dalian City
+- &nbsp;🎉🎉**Mar 2026**:&nbsp; We release a new benchmark towards open-world referring expression comprehension.[Project](https://zongjianwu.github.io/openref)
 
-## 🎖 Honors and Awards
-- **November 2022**:National Second Prize in Mathematical Modeling
-- **October 2022**:National Third Prize in Digital Media Competition
-- **August 2022**:National Third Prize in Computer Design Competition
-- **August 2022**:National Second Prize in Computer Game Competition
-
-## 📝 Academic Service
-- Reviewers: ACAIT
 
 ## 🗺️ Visitor Map
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WD3vTIlH2mX2LNi2gCkI00hAEbDRQuB2VDw59iPRX-E&cl=ffffff&w=a"></script>
