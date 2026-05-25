@@ -13,14 +13,16 @@ author_profile: true
   <tr style="border:none;">
     <!-- 左侧：论文图 -->
     <td style="width:25%; vertical-align:top; border:none; padding-right:15px;">
-      <img src="/images/publications/openref_dataset_vis.svg" alt="Paper Teaser" style="width:100%; border-radius:4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+      <img src="/images/publications/openref/dataset_vis.svg" alt="Paper Teaser" style="width:100%; border-radius:4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
     </td>
     <!-- 右侧：论文信息 -->
     <td style="vertical-align:top; border:none;">
       <strong>Towards Open-World Referring Expression Comprehension: A Benchmark with Training-free Multi-task Consistency Checker</strong><br>
-      <strong>Zongjian WU</strong>, Lei Zhang†<br>
+      Zongjian WU, Lei Zhang†<br>
       <em>arXiv</em>, 2026<br>
-      <a href="[https://github.com/yourusername/repo](https://huggingface.co/datasets/Wuzj/OpenRef)" target="_blank">[Code]</a> 
+      <a href="[https://your-project-page-url.github.io](https://github.com/zongjianwu/openref)" target="_blank">[Project Page]</a>&nbsp;&nbsp;
+      <a href="[https://huggingface.co/datasets/your-dataset-url](https://huggingface.co/datasets/Wuzj/OpenRef)" target="_blank">[Dataset]</a>&nbsp;&nbsp;
+      <a href="https://github.com/zongjianwu/OpenRef-Benchmark" target="_blank">[Code]</a>
     </td>
   </tr>
 </table>
