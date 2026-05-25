@@ -20,8 +20,8 @@ author_profile: true
       <strong>Towards Open-World Referring Expression Comprehension: A Benchmark with Training-free Multi-task Consistency Checker</strong><br>
       Zongjian WU, Lei Zhang†<br>
       <em>arXiv</em>, 2026<br>
-      <a href="[https://your-project-page-url.github.io](https://github.com/zongjianwu/openref)" target="_blank">[Project Page]</a>&nbsp;&nbsp;
-      <a href="[https://huggingface.co/datasets/your-dataset-url](https://huggingface.co/datasets/Wuzj/OpenRef)" target="_blank">[Dataset]</a>&nbsp;&nbsp;
+      <a href="https://github.com/zongjianwu/openref" target="_blank">[Project Page]</a>&nbsp;&nbsp;
+      <a href="https://huggingface.co/datasets/Wuzj/OpenRef" target="_blank">[Dataset]</a>&nbsp;&nbsp;
       <a href="https://github.com/zongjianwu/OpenRef-Benchmark" target="_blank">[Code]</a>
     </td>
   </tr>
