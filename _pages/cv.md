@@ -11,10 +11,7 @@ Education
 ======
 - M.S. in Electronic Engineering, Chongqing University, 2024
 
-Honors and Awards (Selected)
-======
-- Outstanding Graduates of Dalian City, 2024
-- First class scholarship, 2023 (Rk 1)
+
 
 Hobbies
 ======
