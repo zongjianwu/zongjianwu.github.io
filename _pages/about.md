@@ -21,7 +21,7 @@ My current research interests lie in **Multimodal Large Language Models, Multimo
 <!--Tip: *Italics* indicate the first author.-->
 
 ## 🔥 Recent News
-- &nbsp;🎉🎉**Mar 2026**:&nbsp; We release a new benchmark towards open-world referring expression comprehension.[Project](https://zongjianwu.github.io/openref)
+- &nbsp;🎉🎉**Mar 2026**:&nbsp; We release a new benchmark towards open-world referring expression comprehension.
 
 
 ## 🗺️ Visitor Map
